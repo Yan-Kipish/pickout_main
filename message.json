@@ -1,0 +1,8 @@
+{
+    "from": "Yan_Kipish@telegram",
+    "to": "Logan@vk",
+    "content":
+    {
+        "text":"В content может быть не только текст, но и ссылка на медиа. Реализовать отдельно."
+    } 
+}
